@@ -1,2 +1,2 @@
 # kudos-project
-Give kudos to your colleagues
+Give kudos to your colleagues. 
